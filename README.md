@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @RahulMosam
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing B.Tech
 - 📫 How to reach me rahulmosam757@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 RahulMosam/RahulMosam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
